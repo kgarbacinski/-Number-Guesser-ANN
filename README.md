@@ -1,6 +1,6 @@
-# Number_Guesser_ANN
+# Number_Guesser_CNN
 
-Number Guesser (from 0 to 9) created with Python 3.6+, Tensorflow 2.0, pygame and ANN 
+Number Guesser (from 0 to 9) created with Python 3.6+, Tensorflow 2.0, pygame and Convolutional Neural Network 
 ---------------------------------
 Keyboard:
 R - refresh screen
