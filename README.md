@@ -1,14 +1,17 @@
 # Number_Guesser_ANN
 
-Number Guesser (from 0 to 9) created with Python 3.6+, Tensorflow 2.0, pygame and Artificial Neural Network 
----------------------------------
-Keyboard:
-R - refresh screen
-custom keyboard key - predict the drawn number
+# Tech-stack
+- Python 3.8.2
+- Tensorflow 2.0
+- pygame
+- ANN & DL
+- based on MNIST dataset 
 
----------------------------------
-Model trained with mnist from Keras library
+# Introduction
+Number Guesser's been created with DL and ANN. It's been trained with 90% accuracy. It makes possible to effectively guess between 0-9 numbers. 
 
----------------------------------
+# Instruction
+- R - refresh screen
+- custom keyboard key - predict the drawn number
 
 Enjoy :) 
