@@ -8,7 +8,7 @@
 - based on MNIST dataset 
 
 # Introduction
-Number Guesser's been created with DL and ANN. It's been trained with 90% accuracy. It makes possible to effectively guess between 0-9 numbers. 
+Number Guesser's been created with DL and ANN. It's been trained with 90% accuracy. It makes possible to effectively guess nubmers in range(9). : ) 
 
 # Instruction
 - R - refresh screen
